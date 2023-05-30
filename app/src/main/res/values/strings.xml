@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Social Maps</string>
+    <string name="main_email">Correo electronico</string>
+    <string name="main_password">Contraseña</string>
+    <string name="main_login">Iniciar sesión</string>
+    <string name="main_logo">Compartir lugares</string>
+    <string name="main_registrarse">Crear cuenta nueva</string>
+    <string name="main_google">Continuar con Google</string>
+    // Guardar el inicio de sesion
+    <string name="prefs_file">com.example.socialmaps.PREFERENCE_FILE_KEY</string>
+    //Key del SDK de Google Maps
+    <string name="google_maps_key" templateMergeStrangegy="preserve" translatable="false">AIzaSyCfURCSO1BoZ8Lp_W3fwUFU4KAo3BEjlF8</string>
+    //
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

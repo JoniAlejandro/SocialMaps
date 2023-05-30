@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501801134345",
+    "project_id": "social-maps-moviles",
+    "storage_bucket": "social-maps-moviles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501801134345:android:be7caa65b6a84421f50bd8",
+        "android_client_info": {
+          "package_name": "com.example.socialmaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501801134345-i44939ohgj85tjbre9tdknic5moq6jlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsyKjpMDqv0eEbDBu9kuA96-iCNTErxjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501801134345-i44939ohgj85tjbre9tdknic5moq6jlf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
